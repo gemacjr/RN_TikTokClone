@@ -1,9 +1,12 @@
+(https://youtu.be/TGg9WNLUZPc?t=5294)
+
 use_flipper!({ 'Flipper-Folly' => '2.3.0' })
 
 react-vector icons
 
 yarn add 
-ios <?xml version="1.0" encoding="UTF-8"?>
+
+`<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -79,7 +82,7 @@ ios <?xml version="1.0" encoding="UTF-8"?>
   <string>Fontisto.ttf</string>
 </array>
 </dict>
-</plist>
+</plist>`
 
 npx pod install
 
